@@ -81,7 +81,7 @@ return (
     hover:from-purple-600 hover:to-black'>
         Reset
     </button>
-    <footer className=' mt-10 text-white 5-m'>Under the supervision of Mehak Alamgir</footer>
+  
 </div>
 
 
